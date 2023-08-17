@@ -1,0 +1,5 @@
+*Debug
+*.vs
+*transmitter.atsln
+*transmitter.componentinfo.xml
+*transmitter.cproj
